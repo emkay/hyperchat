@@ -1,6 +1,6 @@
 {
   "name": "hyperchat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "peer to peer chattin'",
   "main": "index.js",
   "bin": {
