@@ -1,4 +1,4 @@
-const crypto = require('crypto');
+const crypto = require('crypto')
 const chalk = require('chalk')
 const toPort = require('hash-to-port')
 const swarm = require('discovery-swarm')
